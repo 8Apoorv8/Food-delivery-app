@@ -1,0 +1,21 @@
+.ROW_MENU_CARD:hover,
+.ROW_MENU_CARD:active {
+  background-color: #fbce39;
+}
+.ROW_MENU_CARD:hover .IMG_BOX,
+.ROW_MENU_CARD:active .IMG_BOX {
+  background-color: white;
+}
+
+.ROW_MENU_CARD:hover h3,
+.ROW_MENU_CARD:active h3 {
+  color: white;
+}
+.ROW_MENU_CARD:hover .LOAD_MENU,
+.ROW_MENU_CARD:active .LOAD_MENU {
+  background-color: white;
+}
+.ROW_MENU_CARD:hover .ICON,
+.ROW_MENU_CARD:active .ICON {
+  color: #fbce39;
+}

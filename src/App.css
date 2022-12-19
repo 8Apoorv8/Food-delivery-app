@@ -1,0 +1,15 @@
+li:nth-child(1).active ~ .INDICATOR {
+  transform: translateX(calc(60px * 0));
+}
+li:nth-child(2).active ~ .INDICATOR {
+  transform: translateX(calc(60px * 1));
+}
+li:nth-child(3).active ~ .INDICATOR {
+  transform: translateX(calc(60px * 2));
+}
+li:nth-child(1).active ~ .INDICATOR {
+  transform: translateX(calc(60px * 0));
+}
+li:nth-child(1).active ~ .INDICATOR {
+  transform: translateX(calc(60px * 0));
+}
